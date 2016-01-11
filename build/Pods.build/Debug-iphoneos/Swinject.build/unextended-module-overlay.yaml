@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/blecam/Desktop/OrderCloud-ios/build/Debug-iphoneos/Swinject.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/blecam/Desktop/OrderCloud-ios/build/Pods.build/Debug-iphoneos/Swinject.build/unextended-module.modulemap',
+    }]
+  }]
+}

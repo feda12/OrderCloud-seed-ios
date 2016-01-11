@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-OrderCloud-ios.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-OrderCloud-iosTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-OrderCloud-iosUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Swinject.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1548D2D5243804AF690181B899E30EB1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EB134709DC0F06FDD6CB3D132AF579D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>74FCC94A2989AD8A9D0613BBB1D8907E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D6FA470A6C33C372F4A4C5DB5E616D7E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F76F9136C6D9445EA35825FC500E233C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

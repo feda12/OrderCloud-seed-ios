@@ -1,6 +1,0 @@
-framework module Pods_OrderCloud_ios {
-  umbrella header "Pods-OrderCloud-ios-umbrella.h"
-
-  export *
-  module * { export * }
-}
